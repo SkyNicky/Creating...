@@ -26,19 +26,19 @@ export const menuHamburguer = [
   },
   {
       id: 2,
-      imageurl: "../src/assets/Img/hambuguer com 3 bife cheddar e bacon.jfif",
+      imageurl: "./src/assets/Img/hambuguer com 3 bife cheddar e bacon.jfif",
       name: "Hambúrguer com 3 Bifes, Cheddar e Bacon",
       price: "R$25,99"
   },
   {
       id: 3,
-      imageurl: "../src/assets/Img/hambuguer simples com cebola roxa.jfif",
+      imageurl: "./src/assets/Img/hambuguer simples com cebola roxa.jfif",
       name: "Hambúrguer Simples com Cebola Roxa",
       price: "R$15,99"
   },
   {
       id: 4,
-      imageurl: "../src/assets/Img/hambuguer com dois bife cheddar e picles.jfif",
+      imageurl: "./src/assets/Img/hambuguer com dois bife cheddar e picles.jfif",
       name: "Hambúrguer com Dois Bifes, Cheddar e Picles",
       price: "R$22,50"
   },
